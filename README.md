@@ -25,6 +25,7 @@ pip install tkinter
 3. Wait for the app to detect the text and convert it to speech
 4. Click on the "Play" button to listen to the speech
 5. You can Pause/Resume the speech or Stop it
+6. You can choose another image by clicking on the "Choose Image" button without restarting the app
 
 ## Video
 
