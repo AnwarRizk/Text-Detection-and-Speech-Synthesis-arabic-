@@ -40,7 +40,7 @@ def select_image():
         # Reverse the text to display it correctly
         recognized_text = recognized_text[::-1]
         # Display the recognized text
-        text_label.config(text="Recognized Text:\n" + recognized_text, font=('Arial', 14, 'bold'), justify='center', wraplength=600)
+        text_label.config(text="Recognized Text:\n" + recognized_text, font=('Arial', 16, 'bold'), justify='center', wraplength=600)
 
 def update_image(file_path):
     # Open and display the selected image
